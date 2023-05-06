@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Platform Engineering Success'
-copyright = '2022, Rajat Pandit'
+copyright = '2023, Rajat Pandit'
 author = 'Rajat Pandit'
 
 # The full version, including alpha/beta/rc tags
