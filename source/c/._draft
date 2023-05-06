@@ -1,0 +1,53 @@
+How to Adopt Platforms Created by the Platform Engineering Team in a Large Enterprise
+
+If you work in a large enterprise, you may have heard of the platform engineering team. This is the team that builds and maintains platforms that enable other teams to develop, deploy and operate their applications. Platforms can range from cloud infrastructure, to data pipelines, to microservices frameworks, to observability tools, and more.
+
+Platforms can provide many benefits for an enterprise, such as:
+
+- Reducing complexity and duplication of effort across teams
+- Improving consistency and quality of software delivery
+- Enhancing scalability and reliability of systems
+- Accelerating innovation and time to market
+- Enabling collaboration and knowledge sharing
+
+However, adopting platforms is not a trivial task. It requires careful planning, communication and coordination among various stakeholders, such as platform engineers, platform users, platform managers and platform sponsors. In this blog post, we will discuss some of the key challenges and best practices for adopting platforms in a large enterprise.
+
+Adoption Challenges
+
+One of the main challenges for adopting platforms is to ensure that they meet the needs and expectations of the platform users. Platform users are the teams that consume the platforms to build and run their applications. They may have different requirements, preferences and feedback for the platforms, depending on their domain, context and goals.
+
+To address this challenge, platform engineers need to:
+
+- Understand the user personas and use cases for the platforms
+- Involve the users in the platform design and development process
+- Solicit and incorporate user feedback regularly
+- Provide clear and comprehensive documentation and support for the platforms
+- Measure and demonstrate the value and impact of the platforms
+
+Another challenge for adopting platforms is to ensure that they are aligned with the strategic vision and direction of the enterprise. Platform sponsors are the senior leaders who provide the funding, resources and support for the platform engineering team. They may have different expectations and priorities for the platforms, depending on their business objectives, market trends and competitive pressures.
+
+To address this challenge, platform managers need to:
+
+- Communicate the vision and value proposition of the platforms to the sponsors
+- Align the platform roadmap and milestones with the enterprise strategy and goals
+- Report on the progress and outcomes of the platform initiatives
+- Showcase the success stories and best practices of the platform users
+- Advocate for the recognition and reward of the platform engineering team
+
+A third challenge for adopting platforms is to ensure that they are compatible with the existing technology landscape and culture of the enterprise. Platform users may have legacy systems, processes and tools that they need to integrate with or migrate from. They may also have different levels of skills, experience and readiness for adopting new technologies. Platform engineers may face technical constraints, dependencies and risks that they need to overcome or mitigate.
+
+To address this challenge, platform engineers need to:
+
+- Assess the current state and gaps of the technology environment
+- Provide flexible and interoperable solutions that can work with various technologies
+- Offer migration paths and guidance for transitioning from legacy systems
+- Provide training and coaching for upskilling and reskilling the users
+- Foster a culture of learning, experimentation and collaboration among users
+
+Adoption Best Practices
+
+To overcome these challenges, here are some best practices for adopting platforms in a large enterprise:
+
+- Start small and scale gradually. Rather than trying to build a comprehensive platform that covers all possible scenarios, start with a minimum viable product (MVP) that solves a specific problem or pain point for a subset of users. Then iterate and improve based on user feedback and data. Once you have validated your solution, scale it to more users and scenarios.
+- Focus on user outcomes. Rather than focusing on features or functionalities, focus on how your platform can help your users achieve their desired outcomes. Define clear and measurable success criteria for your platform. Monitor and evaluate your platform performance against these criteria. Use data-driven insights to inform your decisions and actions.
+- Build trust and relationships. Rather than imposing or dictating your platform to your users, build trust and relationships with them. Engage them early and often in your platform journey. Listen to their needs, concerns and suggestions. Empower them to co-create and co-own your platform. Celebrate their wins and learn from their failures.
