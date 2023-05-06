@@ -1,4 +1,4 @@
-[![Platform Engineering Success](source/_static/logo.jpeg)](https://rajatpandit.com/platform-engineering-success/)
+[![Platform Engineering Success](source/_static/logo-large.png)](https://rajatpandit.com/platform-engineering-success/)
 
 Most enterprises are seeing the emergence of a team called `Platform Engineering`. This team has been a natural evolution of the devops team. This team saw enough of a business case to solve common challenges that each of the engineering teams have to deal with like building a secure platform for deployment of services, integration with the enterprise tooling for logging, monitoring and observability. These are problems that the each of the engineering teams otherwise tend to solve for themselves. 
 
