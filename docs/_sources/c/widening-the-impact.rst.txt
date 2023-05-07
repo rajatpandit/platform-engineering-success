@@ -1,4 +1,4 @@
-Working with external providers
-===============================
+Widening the impact
+======================================
 
 .. note::  This content is still work in progress. If you have ideas that you would want to contribute to - please `raise a PR <https://github.com/rajatpandit/platform-engineering-success/pulls>`_

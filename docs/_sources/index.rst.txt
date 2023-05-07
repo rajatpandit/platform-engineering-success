@@ -36,8 +36,8 @@ Photo by `Marvin Meyer <https://unsplash.com/de/@marvelous?utm_source=unsplash&u
    c/what-is-your-purpose 
    c/understanding-your-landscape
    c/knowing-your-stakeholders
-   c/working-with-external-providers
+   c/working-with-providers
    c/how-do-you-measure-value
-   c/building-for-an-open-eco-system
-   c/running-it-like-a-business-unit
-   c/wider-impact-across-the-organisation
+   c/building-open-ecosystem
+   c/managing-PnL
+   c/widening-the-impact

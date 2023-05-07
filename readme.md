@@ -6,11 +6,11 @@ With that said - these teams often seen the various engineering teams reach out 
 
 Feedback is always welcome welcome, please suggest edits, changes or collab requests via PR - credits will be added to the credits section as well.
 
-  * Preface
   * What is your purpose 
-  * Understanding your landscape
+  * Tech Landscape Mapping
   * Knowing your stakeholders
+  * Working with providers - both internal and external
   * How do you measure value?
   * Building for an open eco-system
-  * Running it like a business unit
+  * Managing your P & L
   * Wider impact across the organisation
