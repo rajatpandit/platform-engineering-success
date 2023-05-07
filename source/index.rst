@@ -1,5 +1,7 @@
 Platform Engineering Success
 =============================
+.. meta::
+   :author: Rajat Pandit
 .. image:: /_static/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg
    :alt: Building and running platform engineering teams at scale
 
