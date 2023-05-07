@@ -1,6 +1,6 @@
 Platform Engineering Success
 =============================
-.. image:: /_static/marvin-meyer-SYTO3xs06fU-unsplash.jpg
+.. image:: /_static/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg
    :alt: Building and running platform engineering teams at scale
 
 Welcome to the e-book "Platform Engineering Success". In this e-book, I will share with you my experience and insights as a platform engineering leader at a large retailer. I will also draw on the lessons learned from other platform engineering leaders in different industries and domains over the course of the last few years in my pre-sales engineering leadership role.
