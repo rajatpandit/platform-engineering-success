@@ -27,7 +27,6 @@ I hope you enjoy reading this book as much as I enjoyed writing it. Let's get st
 
 *Disclaimer:* This eBook is based on the experiences and views of mine and the contributors. The content does not represent views of my employers past or present.
 
-
 Photo by `Marvin Meyer <https://unsplash.com/de/@marvelous?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/photos/SYTO3xs06fU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_
   
 
