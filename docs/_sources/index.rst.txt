@@ -9,23 +9,24 @@ Welcome to the e-book "Platform Engineering Success". In this e-book, I will sha
 
 Platform engineering is an emerging and exciting field that aims to provide common, reusable, and scalable software infrastructure for product development teams. Platform engineering teams are responsible for building and maintaining the tools, services, and frameworks that enable developers to deliver value faster and more efficiently.
 
-However, running and scaling a platform engineering team is not without its challenges. When I was heading a platform engineering team at a large retailer, I was often struggled with ideas to get enough adoption of the platform by various services teams. I realized that the requirements of the platform were different in each business unit, and that the regular engineering mindset didn't apply and you had to a product first mindset - keeping the end customers - the engineers - your peers in mind. I had to change my approach of finding sponsors, evangelists, and first-customers for the platform within the organization and approach them with empathy.
+However, running and scaling a platform engineering team is not without its challenges. When I was heading a platform engineering team at a large retailer, I often struggled with ideas to get enough adoption of the platform by various services teams. I realised that the requirements of the platform were different in each business unit, and that the regular engineering mindset didn't apply and you had to have a product first mindset - keeping the end customers - the engineers - your peers in mind. I had to change my approach of finding sponsors, evangelists, and first-customers for the platform within the organisation and approach them with empathy.
 
 Since then, I have met many other leaders in different companies who are going through the same phase of learning and experimenting with platform engineering. Based on what worked and didn't work for them, I have distilled some key ideas and best practices that can help you build and run a successful platform engineering team at scale.
 
 This book is a summary of the ideas I learned along the way. It covers topics such as:
 
 - What is platform engineering and why is it important?
-- How to structure and organize your platform engineering team?
+- How to structure and organise your platform engineering team?
 - How to communicate and collaborate with your internal customers?
 - How to design and deliver platform products and services?
 - How to measure and improve your platform's impact and value?
 
-My goal is to inspire you to adopt platform engineering as a strategic advantage for your organization. Whether you are a new or experienced platform engineering leader, or a developer interested in joining or creating a platform engineering team, this book will provide you with useful insights and guidance.
+My goal is to inspire you to adopt platform engineering as a strategic advantage for your organisation. Whether you are a new or experienced platform engineering leader, or a developer interested in joining or creating a platform engineering team, this book will provide you with useful insights and guidance.
 
 I hope you enjoy reading this book as much as I enjoyed writing it. Let's get started!
 
-*Disclaimer:* This eBook is based on the experiences and views of mine and the contributors. The content does not represent views of my employeers past or present.
+*Disclaimer:* This eBook is based on the experiences and views of mine and the contributors. The content does not represent views of my employers past or present.
+
 
 Photo by `Marvin Meyer <https://unsplash.com/de/@marvelous?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/photos/SYTO3xs06fU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_
   
